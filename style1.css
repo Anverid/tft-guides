@@ -1,0 +1,98 @@
+body {
+  color: white;
+}
+.header1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.naslov {
+  text-align: center;
+  position: relative;
+}
+.seznam1 {
+  margin-left: 200px;
+  color: rgb(252, 116, 5);
+  line-height: 2.5;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 100px;
+}
+.ABELink {
+  color: rgb(252, 116, 5);
+}
+.MALink {
+  color: rgb(252, 116, 5);
+}
+.AHRILink {
+  color: rgb(252, 116, 5);
+}
+.naslovTierS {
+  text-align: center;
+  color: palegoldenrod;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 90px;
+}
+.ImeTierABE {
+  color: white;
+  margin-left: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+}
+.SlikaABE {
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 470px;
+}
+.ImeTierMA {
+  color: white;
+  margin-left: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+}
+.SlikaMA {
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 470px;
+}
+.naslovTierA {
+  text-align: center;
+  color: palegoldenrod;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 90px;
+}
+.ImeTierAHRI {
+  color: white;
+  margin-left: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+}
+.SlikaAHRI {
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 470px;
+}
+.ImeTierSS {
+  color: white;
+  margin-left: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+}
+.SlikaSS {
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 470px;
+}
+.ImeTierDUSK {
+  color: white;
+  margin-left: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+}
+.SlikaDUSK {
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 470px;
+}
